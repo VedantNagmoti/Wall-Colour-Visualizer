@@ -1,5 +1,6 @@
 streamlit
+Pillow
 tensorflow==1.15
 numpy
-Pillow
 matplotlib
+requests
